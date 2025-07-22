@@ -19,12 +19,15 @@ npm start
 http://localhost:4000
 
 //---------------------------------
+
 נקודות קצה 
 לקבלת כל הפריטים:
 GET http://localhost:4000/api/items
 
+
 לקבלת פריט לפי מזהה
 GET http://localhost:4000/api/items/2
+
 
 לקבלת עצה אקראית:
 GET http://localhost:4000/api/advice
